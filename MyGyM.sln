@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGyMWinApp", "MyGyM\MyGyMWinApp.csproj", "{81A43FA1-618B-4BEC-BB97-949C5FBFCD30}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{2A12470F-F462-4623-A38F-6B2EE2592112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A43FA1-618B-4BEC-BB97-949C5FBFCD30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A43FA1-618B-4BEC-BB97-949C5FBFCD30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A43FA1-618B-4BEC-BB97-949C5FBFCD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A43FA1-618B-4BEC-BB97-949C5FBFCD30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A12470F-F462-4623-A38F-6B2EE2592112}.Debug|Any CPU.ActiveCfg = Debug
+		{2A12470F-F462-4623-A38F-6B2EE2592112}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A1063B-E124-4031-8F0E-F459030A3144}
+	EndGlobalSection
+EndGlobal
